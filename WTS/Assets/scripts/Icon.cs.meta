@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d85e3eafc60032942b245edc54626bbb
+timeCreated: 1536756796
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BarOff1: {fileID: 21300000, guid: 8861637b3926e954697a0a0b848e4e32, type: 3}
+  - BarOn1: {fileID: 21300000, guid: 0d7a534e8e9397241af6f13dca7c17a5, type: 3}
+  - BarDamaged1: {fileID: 21300000, guid: 2a290b210e734994081bf3ff789da1ef, type: 3}
+  - BarOff2: {fileID: 21300000, guid: 5291e38dfb686b54ea131c7b6b003614, type: 3}
+  - BarOn2: {fileID: 21300000, guid: cae4824919dc2674b96c881af5386094, type: 3}
+  - BarDamaged2: {fileID: 21300000, guid: c5f86113584da5442b1d4d43f93507e6, type: 3}
+  - Nothing: {fileID: 21300000, guid: 4a1cc9d40ebd2884781404b892481ff6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

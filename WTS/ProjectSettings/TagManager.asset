@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Crew
+  - CrewEnemy
+  - Shield
+  - Room
+  - Door
+  - Projectile
+  - ProjectileEnemy
+  - Fire
+  - ShieldEnemy
+  - RoomCompL
+  - RoomCompR
+  - RoomCompU
+  - RoomCompD
+  - Icon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3409980429
+    locked: 0
+  - name: Planet
+    uniqueID: 84204045
+    locked: 0
+  - name: Shield
+    uniqueID: 2476351071
+    locked: 0
+  - name: Projectile
+    uniqueID: 1635551687
+    locked: 0
+  - name: Weapon
+    uniqueID: 3761781595
+    locked: 0
+  - name: Room
+    uniqueID: 380912429
+    locked: 0
+  - name: Brech
+    uniqueID: 1733682507
+    locked: 0
+  - name: Fire
+    uniqueID: 2934440945
+    locked: 0
+  - name: Ship
+    uniqueID: 586909959
+    locked: 0
+  - name: Door
+    uniqueID: 1674630057
+    locked: 0
+  - name: Icon
+    uniqueID: 1337898957
+    locked: 0
+  - name: Crew
+    uniqueID: 4284132417
+    locked: 0
+  - name: ProjectileEnemy
+    uniqueID: 3052762607
+    locked: 0
+  - name: UI
+    uniqueID: 1863741225
+    locked: 0
